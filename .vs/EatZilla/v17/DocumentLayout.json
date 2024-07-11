@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\dish\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\dish\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\models\\coreclasses\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\models\\coreclasses\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\admins\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\admins\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\users\\loginsucess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\users\\loginsucess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\models\\coreclasses\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\models\\coreclasses\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\models\\coreclasses\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\models\\coreclasses\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\controllers\\resturantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\controllers\\resturantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\dish\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\dish\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\dishes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\dishes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\users\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\users\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\home\\orderfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\home\\orderfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\migrations\\20240709102551_bys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\migrations\\20240709102551_bys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\migrations\\20240709102710_byggs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\migrations\\20240709102710_byggs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|f:\\github repositories\\eatzilla-restaurent-management-system-using-dotnet\\eatzilla\\migrations\\20240710071952_bysss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2CC5B8-94F7-446F-905F-CAE6B4DBCA42}|EatZilla\\EatZilla.csproj|solutionrelative:eatzilla\\migrations\\20240710071952_bysss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Controllers\\AdminsController.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "EatZilla\\Controllers\\AdminsController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAAJ4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:38:20.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Models\\CoreClasses\\Admin.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Models\\CoreClasses\\Admin.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Models\\CoreClasses\\Admin.cs",
+              "RelativeToolTip": "EatZilla\\Models\\CoreClasses\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:36:59.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginSucess.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\LoginSucess.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Users\\LoginSucess.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\LoginSucess.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Users\\LoginSucess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T07:25:45.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EatZilla\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:42:04.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Users\\Login.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T11:07:27.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswEYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T10:48:11.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T10:48:46.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Dish\\Index.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Dish\\Index.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Dish\\Index.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Dish\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T12:29:18.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Admins\\Login.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Admins\\Login.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Admins\\Login.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Admins\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:39:01.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Controllers\\UsersController.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "EatZilla\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:41:12.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Models\\CoreClasses\\User.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Models\\CoreClasses\\User.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Models\\CoreClasses\\User.cs",
+              "RelativeToolTip": "EatZilla\\Models\\CoreClasses\\User.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAmwFUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:45:57.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Program.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Program.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Program.cs",
+              "RelativeToolTip": "EatZilla\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwDsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:24:19.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Models\\CoreClasses\\Dish.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Models\\CoreClasses\\Dish.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Models\\CoreClasses\\Dish.cs",
+              "RelativeToolTip": "EatZilla\\Models\\CoreClasses\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:07:38.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Users\\Details.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T14:57:13.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DishController.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Controllers\\DishController.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Controllers\\DishController.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Controllers\\DishController.cs",
+              "RelativeToolTip": "EatZilla\\Controllers\\DishController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:04:10.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:51:22.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240710071952_bysss.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Migrations\\20240710071952_bysss.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Migrations\\20240710071952_bysss.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Migrations\\20240710071952_bysss.cs",
+              "RelativeToolTip": "EatZilla\\Migrations\\20240710071952_bysss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:19:52.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DishesController.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Controllers\\DishesController.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Controllers\\DishesController.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Controllers\\DishesController.cs",
+              "RelativeToolTip": "EatZilla\\Controllers\\DishesController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAwwJwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:19:05.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResturantController.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Controllers\\ResturantController.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Controllers\\ResturantController.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Controllers\\ResturantController.cs",
+              "RelativeToolTip": "EatZilla\\Controllers\\ResturantController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:31:07.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Dish\\Add.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Dish\\Add.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Dish\\Add.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Dish\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T12:14:54.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Dishes\\Index.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Dishes\\Index.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Dishes\\Index.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Dishes\\Index.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T12:19:36.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Users\\Dashboard.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\Dashboard.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Users\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T18:00:34.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderFood.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Home\\OrderFood.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Home\\OrderFood.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Home\\OrderFood.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Home\\OrderFood.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T12:14:43.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Users\\Create.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T14:53:27.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "EatZilla\\Views\\Users\\Index.cshtml",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "EatZilla\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAUwDgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T14:55:19.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240709102710_byggs.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Migrations\\20240709102710_byggs.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Migrations\\20240709102710_byggs.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Migrations\\20240709102710_byggs.cs",
+              "RelativeToolTip": "EatZilla\\Migrations\\20240709102710_byggs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:27:10.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240709102551_bys.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Migrations\\20240709102551_bys.cs",
+              "RelativeDocumentMoniker": "EatZilla\\Migrations\\20240709102551_bys.cs",
+              "ToolTip": "F:\\GitHub Repositories\\EatZilla-Restaurent-Management-System-using-DotNet\\EatZilla\\Migrations\\20240709102551_bys.cs",
+              "RelativeToolTip": "EatZilla\\Migrations\\20240709102551_bys.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:25:52.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

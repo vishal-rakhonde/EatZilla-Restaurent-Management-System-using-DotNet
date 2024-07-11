@@ -1,0 +1,151 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EatZilla
+build_property.RootNamespace = EatZilla
+build_property.ProjectDir = F:\GitHub Repositories\EatZilla-Restaurent-Management-System-using-DotNet\EatZilla\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\GitHub Repositories\EatZilla-Restaurent-Management-System-using-DotNet\EatZilla
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Admins/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Admins/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Admins/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Admins/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Admins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Admins/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Dishes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Dishes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Dishes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Dishes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Dishes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Dish/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Dish/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzaFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Home/OrderFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcmRlckZvb2QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Resturant/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdHVyYW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Users/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Users/LoginSucess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW5TdWNlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Users/Sucess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcU3VjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitHub Repositories/EatZilla-Restaurent-Management-System-using-DotNet/EatZilla/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rl0hzgzl4e

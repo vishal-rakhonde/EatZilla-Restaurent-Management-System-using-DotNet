@@ -1,0 +1,153 @@
+﻿<h1>
+    Menu
+</h1>
+
+@using EatZilla.Models.CoreClasses
+@model List<Dish>
+<div class="container">
+    <div class="col-12 text-end">
+        <a href="/Dish/Add">
+            <button class="btn btn-secondary">AddDish</button>
+
+
+        </a> 
+
+    </div>
+<table class="table table-bordered table-striped">
+    <thead>
+    <th>
+        Id
+    </th>
+    <th>
+        Item
+    </th>
+    <th>
+        Price
+    </th>
+   
+    </thead>
+    <tbody>
+        @foreach (var o in Model)
+        {
+            <tr>
+                <td>
+                    @o.DishId
+                </td>
+                <td>
+                    @o.Name
+                </td>
+                <td>
+                    @o.price
+                </td>
+                    <td>
+                        <div>
+                            <button type="button" class="btn btn-sm btn-secondary" onclick="decrementQuantity(this)">-</button>
+                            <span id="quantity_@o.DishId">0</span>  @* Initial quantity displayed (assuming starting from 1) *@
+                            <button type="button" class="btn btn-sm btn-secondary" onclick="incrementQuantity(this)">+</button>
+                        </div>
+                    </td>
+                    @* <td>
+                        <span id="totalPrice_@o.DishId">@o.price</span>
+                    </td> *@
+                    <td>
+                    <script>
+                        // JavaScript functions to handle quantity increment and decrement
+                        function incrementQuantity(button) {
+                            var spanElement = button.parentNode.querySelector('span');
+                            var currentQuantity = parseInt(spanElement.textContent);
+                            spanElement.textContent = currentQuantity + 1;
+                        }
+
+                        function decrementQuantity(button) {
+                            var spanElement = button.parentNode.querySelector('span');
+                            var currentQuantity = parseInt(spanElement.textContent);
+                            if (currentQuantity > 0) {
+                                spanElement.textContent = currentQuantity - 1;
+                            }
+                        }
+                    </script>
+                    </td>
+                  @*  <script>
+                        // JavaScript functions to handle quantity increment and decrement
+                        function incrementQuantity(button) {
+                            var spanElement = button.parentNode.querySelector('span');
+                            var currentQuantity = parseInt(spanElement.textContent);
+                            spanElement.textContent = currentQuantity + 1;
+                            var inElement = document.getElementById("total");
+                            inElement.innerHTML = @o.price * currentQuantity;
+                        }
+
+                        function decrementQuantity(button) {
+                            var spanElement = button.parentNode.querySelector('span');
+                            var currentQuantity = parseInt(spanElement.textContent);
+                            if (currentQuantity > 0) {
+                                spanElement.textContent = currentQuantity - 1;
+                            }
+                        }
+                    </script> *@
+
+                    @* <script>
+                        // JavaScript functions to handle quantity increment and decrement
+                        function incrementQuantity(button, price) {
+                            var spanElement = button.parentNode.querySelector('span');
+                            var currentQuantity = parseInt(spanElement.textContent);
+                            spanElement.textContent = currentQuantity + 1;
+
+                            // Calculate total price
+                            var totalPriceElement = document.getElementById('totalPrice_' + button.dataset.dishId);  // Assumes you set dataset.dishId in HTML
+                            var totalPrice = parseFloat(totalPriceElement.textContent);
+                          totalPriceElement.textContent = (totalPrice * price).toFixed(2);  // Assuming price is a decimal value
+                            totalPriceElement.textContent = (totalPrice + @o.price+@o.price).toFixed(2);  // Assuming price is a decimal value
+                        }
+
+                        function decrementQuantity(button, price) {
+                            var spanElement = button.parentNode.querySelector('span');
+                            var currentQuantity = parseInt(spanElement.textContent);
+                            if (currentQuantity > 1) {
+                                spanElement.textContent = currentQuantity - 1;
+
+                                // 
+                                // 
+                                // Calculate total price
+                                var totalPriceElement = document.getElementById('totalPrice_' + button.dataset.dishId);  // Assumes you set dataset.dishId in HTML
+                                var totalPrice = parseFloat(totalPriceElement.textContent);
+                                totalPriceElement.textContent = (totalPrice - price).toFixed(2);  // Assuming price is a decimal value
+                            }
+                        }
+                    </script> *@
+                    
+
+
+
+            </tr>
+
+
+        }
+    </tbody>
+
+     
+      
+
+    </table>
+    <style>
+        /* Example styling */
+        .custom-button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+    </style>
+
+
+        <button id="placeOrderBtn" class="custom-button" onclick="placeOrder()">Place Order</button>
+
+        <script>
+            function placeOrder() {
+                alert("Your order has been placed successfully!");
+            }
+        </script>
+
+</div>
